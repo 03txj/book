@@ -1,0 +1,1 @@
+a:7:{i:0;s:7:"index_1";i:1;s:12:"index_newest";i:2;s:9:"hot_index";i:3;s:13:"updatelist_20";i:4;s:10:"newestlist";i:5;s:12:"pick_process";i:6;s:14:"spider_addlogs";}
